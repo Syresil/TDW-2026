@@ -1,0 +1,28 @@
+*{ margin:0;
+
+}
+header{
+    background-color: black;
+    color:white;
+    font-family: Roboto, sans-serif;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    gap:10px;
+
+    
+}
+nav{
+    margin-right: 20px;
+}
+.logo{
+    display:flex;
+    gap:10px;
+    align-items: center;
+}

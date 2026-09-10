@@ -1,0 +1,37 @@
+
+header{
+    text-align: center;
+}
+body{
+     font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    color:#005677;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+
+}
+
+h2{
+    font-size: 20px;
+    color:#005677;
+    background-color: #C4C4C4;
+    line-height: 30 px;
+
+}
+.no-style-list{
+    list-style-type: none;
+}
+footer{
+    background-color: #005677;
+    color:#FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    line-height: 37px;
+}
+footer img {
+    width: 17px;
+    height: 17px;
+}
